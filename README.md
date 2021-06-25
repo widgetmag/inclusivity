@@ -11,6 +11,7 @@ Through [Grant for the Web](https://www.grantfortheweb.org/), Widget received fu
 To accomplish these goals, Widget’s editors commit to tangible actions of editorial accountability, designed to support marginalised and underrepresented voices. You’ll find these actions outlined in this document.
 
 \* *January-June, 2021*
+
 \** *We initially based this off of rates at [CARFAC](https://www.carfac.ca/news/2020/04/09/recommended-practices-for-paying-artists-during-the-covid-19-crisis/#:~:text=The%20artist%20is%20paid%20a,negotiated%20separately%20with%20the%20curator.), though we’d like to do more research to confirm if our benchmarks are accurate.*
 
 ## Method (“How?”)
